@@ -1,4 +1,4 @@
-# This is bash script for RNASeq Ananlysis.
+# This is the README of the bash script for RNASeq Analysis.
 # To start the analysis you should have the following:
 
 Make sure you have installed the following:
